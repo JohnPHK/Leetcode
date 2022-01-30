@@ -1,5 +1,7 @@
 from typing import List
 
+
+# Dyanmic Algorithm solution
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         mem = [0 for _ in range(len(nums))]
@@ -18,4 +20,13 @@ class Solution:
         
         return mem[0] == 1
                 
+# Greedy solution
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        last_position = len(nums) - 1
         
+        for i in range(len(nums) - 2, -1, -1):
+            if i + nums[i] >= last_position:
+                last_position = i
+        
+        return last_position == 0
