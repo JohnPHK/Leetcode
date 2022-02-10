@@ -6,7 +6,6 @@ class Solution:
         rep = 0
         
         for i in range(len(nums)):
-            l = nums[i]
-            if l != 0:
+            if 0 != nums[i]:
                 nums[rep], nums[i] = nums[i], nums[rep]
                 rep += 1
