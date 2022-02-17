@@ -1,2 +1,2 @@
 List of failed problems. Resolve in future.
- - 22. Generate Parentheses
+ - 22. Generate Parentheses.
