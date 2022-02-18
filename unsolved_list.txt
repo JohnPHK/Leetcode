@@ -1,4 +1,4 @@
 List of failed problems. Resolve in future.
- - 22. Generate Parentheses.
+ - 22. Generate Parentheses (resolve recommended).
  - 39. Combination Sum
- - 
+ - 402. Remove K Digits
