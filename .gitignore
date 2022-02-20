@@ -131,3 +131,7 @@ dmypy.json
 *.swp
 .DS_Store
 */.DS_Store
+
+*/~$leetcode_book.xlsx
+~$leetcode_book.xlsx
+
