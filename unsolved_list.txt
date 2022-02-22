@@ -1,5 +1,4 @@
 List of failed problems. Resolve in future.
- - 22. Generate Parentheses (resolve recommended).
- - 39. Combination Sum
+ - 39. Combination Sum (resolve recommended)
  - 402. Remove K Digits
- - 594. Longest Harmonious Subsequence
+ - 71. Simplify Path
