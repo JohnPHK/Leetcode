@@ -3,3 +3,4 @@ List of failed problems. Resolve in future.
  - 402. Remove K Digits
  - 71. Simplify Path
  - 148. Sort List
+ - 662. Maximum Width of Binary Tree
