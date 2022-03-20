@@ -7,3 +7,6 @@ List of failed problems. Resolve in future.
  - 799. Champagne Tower
  - 77. Combinations
  - 141. Linked List Cycle
+ - 316. Remove Duplicate Letters
+ - 856. Score of Parentheses
+
