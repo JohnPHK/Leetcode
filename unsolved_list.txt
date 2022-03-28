@@ -10,4 +10,6 @@ List of failed problems. Resolve in future.
  - 316. Remove Duplicate Letters
  - 856. Score of Parentheses
  - 1663. Smallest String With A Given Numeric Value
+ - 991. Broken Calculator
+
 
